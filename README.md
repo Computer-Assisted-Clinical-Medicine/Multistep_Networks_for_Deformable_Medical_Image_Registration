@@ -1,6 +1,10 @@
 # Multistep Networks for Deformable Medical Image Registration
 This repository contains the implementation of a multistep networks for deformable medical image registration. In order to provide a benchmark for comparison, we integrated a monostep network for deformable registration into the framework. The framework was implemented using Keras with Tensorflow backend.
 
+If you use our code in your work please cite the following paper:
+
+Strittmatter, A., & Zöllner, F. G. (2024). Multistep Networks for Deformable Multimodal Medical Image Registration. Institute of Electrical and Electronics Engineers (IEEE). https://doi.org/10.1109/access.2024.3412216
+
 # Architecture
 ![Architecture](https://github.com/Computer-Assisted-Clinical-Medicine/Multistep_Networks_for_Deformable_Medical_Image_Registration/assets/129390849/6210daa6-ee93-4e4e-8c28-825d3903f7d8)
 
